@@ -1,0 +1,20 @@
+{
+  "title": "Liga 4 2026 | Lair",
+  "date": "09/10/2026",
+  "standings": [
+    { "name": "ODIUM", "points": 31 },
+    { "name": "FROST", "points": 27 },
+    { "name": "HONOR", "points": 26 },
+    { "name": "SHAKA", "points": 23 },
+    { "name": "KANON", "points": 21 },
+    { "name": "REDEMPTION", "points": 18 },
+    { "name": "EL SOBRE", "points": 16 },
+    { "name": "NÓCTARA", "points": 16 },
+    { "name": "GRYMIR", "points": 9 },
+    { "name": "WULDEM", "points": 7 },
+    { "name": "CALA", "points": 6 },
+    { "name": "BELPHIE", "points": 6 },
+    { "name": "NACHO", "points": 5 },
+    { "name": "ZPAINT", "points": 5 }
+  ]
+}
