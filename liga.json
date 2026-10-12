@@ -2,69 +2,447 @@
   "title": "Liga 4 2026 | Lair",
   "date": "09/10/2026",
   "standings": [
-    { "name": "ODIUM", "points": 31 },
-    { "name": "FROST", "points": 27 },
-    { "name": "HONOR", "points": 26 },
-    { "name": "SHAKA", "points": 23 },
-    { "name": "KANON", "points": 21 },
-    { "name": "REDEMPTION", "points": 18 },
-    { "name": "EL SOBRE", "points": 16 },
-    { "name": "NÓCTARA", "points": 16 },
-    { "name": "GRYMIR", "points": 9 },
-    { "name": "WULDEM", "points": 7 },
-    { "name": "CALA", "points": 6 },
-    { "name": "BELPHIE", "points": 6 },
-    { "name": "NACHO", "points": 5 },
-    { "name": "ZPAINT", "points": 5 }
+    {
+      "name": "ODIUM",
+      "points": 31
+    },
+    {
+      "name": "FROST",
+      "points": 27
+    },
+    {
+      "name": "HONOR",
+      "points": 26
+    },
+    {
+      "name": "SHAKA",
+      "points": 23
+    },
+    {
+      "name": "KANON",
+      "points": 21
+    },
+    {
+      "name": "REDEMPTION",
+      "points": 18
+    },
+    {
+      "name": "EL SOBRE",
+      "points": 16
+    },
+    {
+      "name": "NÓCTARA",
+      "points": 16
+    },
+    {
+      "name": "GRYMIR",
+      "points": 9
+    },
+    {
+      "name": "WULDEM",
+      "points": 7
+    },
+    {
+      "name": "CALA",
+      "points": 6
+    },
+    {
+      "name": "BELPHIE",
+      "points": 6
+    },
+    {
+      "name": "NACHO",
+      "points": 5
+    },
+    {
+      "name": "ZPAINT",
+      "points": 5
+    }
   ],
   "matches": [
-    { "fecha": "Fecha 1 · Ronda 1", "player1": "SHAKA", "player2": "REDEMPTION", "winner": "SHAKA" },
-    { "fecha": "Fecha 1 · Ronda 1", "player1": "ODIUM", "player2": "NACHO", "winner": "ODIUM" },
-    { "fecha": "Fecha 1 · Ronda 1", "player1": "HONOR", "player2": "FROST", "winner": null },
-    { "fecha": "Fecha 1 · Ronda 1", "player1": "EL SOBRE", "player2": "WULDEM", "winner": "EL SOBRE" },
-    { "fecha": "Fecha 1 · Ronda 1", "player1": "GRYMIR", "player2": "NÓCTARA", "winner": null },
-    { "fecha": "Fecha 1 · Ronda 1", "player1": "KANON", "player2": "CALA", "winner": "KANON" },
-    { "fecha": "Fecha 1 · Ronda 2", "player1": "SHAKA", "player2": "ODIUM", "winner": "ODIUM" },
-    { "fecha": "Fecha 1 · Ronda 2", "player1": "EL SOBRE", "player2": "KANON", "winner": "EL SOBRE" },
-    { "fecha": "Fecha 1 · Ronda 2", "player1": "BELPHIE", "player2": "NÓCTARA", "winner": "NÓCTARA" },
-    { "fecha": "Fecha 1 · Ronda 2", "player1": "GRYMIR", "player2": "FROST", "winner": "FROST" },
-    { "fecha": "Fecha 1 · Ronda 2", "player1": "HONOR", "player2": "WULDEM", "winner": "HONOR" },
-    { "fecha": "Fecha 1 · Ronda 2", "player1": "REDEMPTION", "player2": "NACHO", "winner": "REDEMPTION" },
-    { "fecha": "Fecha 1 · Ronda 3", "player1": "ODIUM", "player2": "GRYMIR", "winner": "ODIUM" },
-    { "fecha": "Fecha 1 · Ronda 3", "player1": "EL SOBRE", "player2": "HONOR", "winner": null },
-    { "fecha": "Fecha 1 · Ronda 3", "player1": "FROST", "player2": "BELPHIE", "winner": null },
-    { "fecha": "Fecha 1 · Ronda 3", "player1": "SHAKA", "player2": "KANON", "winner": "KANON" },
-    { "fecha": "Fecha 1 · Ronda 3", "player1": "NÓCTARA", "player2": "REDEMPTION", "winner": "REDEMPTION" },
-    { "fecha": "Fecha 1 · Ronda 3", "player1": "CALA", "player2": "WULDEM", "winner": null },
-    { "fecha": "Fecha 2 · Ronda 1", "player1": "ODIUM", "player2": "NÓCTARA", "winner": "ODIUM" },
-    { "fecha": "Fecha 2 · Ronda 1", "player1": "EL SOBRE", "player2": "HONOR", "winner": "HONOR" },
-    { "fecha": "Fecha 2 · Ronda 1", "player1": "KANON", "player2": "SHAKA", "winner": "SHAKA" },
-    { "fecha": "Fecha 2 · Ronda 1", "player1": "REDEMPTION", "player2": "GRYMIR", "winner": "GRYMIR" },
-    { "fecha": "Fecha 2 · Ronda 1", "player1": "FROST", "player2": "WULDEM", "winner": "FROST" },
-    { "fecha": "Fecha 2 · Ronda 2", "player1": "ODIUM", "player2": "HONOR", "winner": "ODIUM" },
-    { "fecha": "Fecha 2 · Ronda 2", "player1": "FROST", "player2": "GRYMIR", "winner": "FROST" },
-    { "fecha": "Fecha 2 · Ronda 2", "player1": "SHAKA", "player2": "NÓCTARA", "winner": "SHAKA" },
-    { "fecha": "Fecha 2 · Ronda 2", "player1": "KANON", "player2": "EL SOBRE", "winner": "KANON" },
-    { "fecha": "Fecha 2 · Ronda 2", "player1": "REDEMPTION", "player2": "WULDEM", "winner": "REDEMPTION" },
-    { "fecha": "Fecha 2 · Ronda 3", "player1": "ODIUM", "player2": "FROST", "winner": null },
-    { "fecha": "Fecha 2 · Ronda 3", "player1": "KANON", "player2": "WULDEM", "winner": "KANON" },
-    { "fecha": "Fecha 2 · Ronda 3", "player1": "SHAKA", "player2": "GRYMIR", "winner": null },
-    { "fecha": "Fecha 2 · Ronda 3", "player1": "REDEMPTION", "player2": "HONOR", "winner": "HONOR" },
-    { "fecha": "Fecha 2 · Ronda 3", "player1": "EL SOBRE", "player2": "NÓCTARA", "winner": "EL SOBRE" },
-    { "fecha": "Fecha 3 · Ronda 1", "player1": "ODIUM", "player2": "EL SOBRE", "winner": "ODIUM" },
-    { "fecha": "Fecha 3 · Ronda 1", "player1": "FROST", "player2": "NÓCTARA", "winner": "FROST" },
-    { "fecha": "Fecha 3 · Ronda 1", "player1": "KANON", "player2": "REDEMPTION", "winner": "KANON" },
-    { "fecha": "Fecha 3 · Ronda 1", "player1": "HONOR", "player2": "ZPAINT", "winner": "HONOR" },
-    { "fecha": "Fecha 3 · Ronda 1", "player1": "SHAKA", "player2": "WULDEM", "winner": "SHAKA" },
-    { "fecha": "Fecha 3 · Ronda 2", "player1": "ODIUM", "player2": "KANON", "winner": "ODIUM" },
-    { "fecha": "Fecha 3 · Ronda 2", "player1": "FROST", "player2": "HONOR", "winner": null },
-    { "fecha": "Fecha 3 · Ronda 2", "player1": "SHAKA", "player2": "EL SOBRE", "winner": "SHAKA" },
-    { "fecha": "Fecha 3 · Ronda 2", "player1": "NÓCTARA", "player2": "ZPAINT", "winner": "NÓCTARA" },
-    { "fecha": "Fecha 3 · Ronda 2", "player1": "REDEMPTION", "player2": "WULDEM", "winner": "REDEMPTION" },
-    { "fecha": "Fecha 3 · Ronda 3", "player1": "ODIUM", "player2": "SHAKA", "winner": null },
-    { "fecha": "Fecha 3 · Ronda 3", "player1": "HONOR", "player2": "KANON", "winner": "HONOR" },
-    { "fecha": "Fecha 3 · Ronda 3", "player1": "FROST", "player2": "EL SOBRE", "winner": "FROST" },
-    { "fecha": "Fecha 3 · Ronda 3", "player1": "NÓCTARA", "player2": "REDEMPTION", "winner": "NÓCTARA" },
-    { "fecha": "Fecha 3 · Ronda 3", "player1": "WULDEM", "player2": "ZPAINT", "winner": "ZPAINT" }
+    {
+      "fecha": "Fecha 1 · Ronda 1",
+      "player1": "SHAKA",
+      "player2": "REDEMPTION",
+      "winner": "SHAKA",
+      "score1": 55,
+      "score2": 30
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 1",
+      "player1": "ODIUM",
+      "player2": "NACHO",
+      "winner": "ODIUM",
+      "score1": 20,
+      "score2": 0
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 1",
+      "player1": "HONOR",
+      "player2": "FROST",
+      "winner": null,
+      "score1": 110,
+      "score2": 130
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 1",
+      "player1": "EL SOBRE",
+      "player2": "WULDEM",
+      "winner": "EL SOBRE",
+      "score1": 30,
+      "score2": 35
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 1",
+      "player1": "GRYMIR",
+      "player2": "NÓCTARA",
+      "winner": null,
+      "score1": 115,
+      "score2": 70
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 1",
+      "player1": "KANON",
+      "player2": "CALA",
+      "winner": "KANON",
+      "score1": 0,
+      "score2": 0
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 2",
+      "player1": "SHAKA",
+      "player2": "ODIUM",
+      "winner": "ODIUM",
+      "score1": 0,
+      "score2": 5
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 2",
+      "player1": "EL SOBRE",
+      "player2": "KANON",
+      "winner": "EL SOBRE",
+      "score1": 30,
+      "score2": 35
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 2",
+      "player1": "BELPHIE",
+      "player2": "NÓCTARA",
+      "winner": "NÓCTARA",
+      "score1": 60,
+      "score2": 55
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 2",
+      "player1": "GRYMIR",
+      "player2": "FROST",
+      "winner": "FROST",
+      "score1": 95,
+      "score2": 75
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 2",
+      "player1": "HONOR",
+      "player2": "WULDEM",
+      "winner": "HONOR",
+      "score1": 90,
+      "score2": 55
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 2",
+      "player1": "REDEMPTION",
+      "player2": "NACHO",
+      "winner": "REDEMPTION",
+      "score1": 45,
+      "score2": 10
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 3",
+      "player1": "ODIUM",
+      "player2": "GRYMIR",
+      "winner": "ODIUM",
+      "score1": 55,
+      "score2": 30
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 3",
+      "player1": "EL SOBRE",
+      "player2": "HONOR",
+      "winner": null,
+      "score1": 120,
+      "score2": 180
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 3",
+      "player1": "FROST",
+      "player2": "BELPHIE",
+      "winner": null,
+      "score1": 155,
+      "score2": 65
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 3",
+      "player1": "SHAKA",
+      "player2": "KANON",
+      "winner": "KANON",
+      "score1": 15,
+      "score2": 60
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 3",
+      "player1": "NÓCTARA",
+      "player2": "REDEMPTION",
+      "winner": "REDEMPTION",
+      "score1": 65,
+      "score2": 65
+    },
+    {
+      "fecha": "Fecha 1 · Ronda 3",
+      "player1": "CALA",
+      "player2": "WULDEM",
+      "winner": null,
+      "score1": 100,
+      "score2": 96
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 1",
+      "player1": "ODIUM",
+      "player2": "NÓCTARA",
+      "winner": "ODIUM",
+      "score1": 10,
+      "score2": 5
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 1",
+      "player1": "EL SOBRE",
+      "player2": "HONOR",
+      "winner": "HONOR",
+      "score1": 35,
+      "score2": 75
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 1",
+      "player1": "KANON",
+      "player2": "SHAKA",
+      "winner": "SHAKA",
+      "score1": 20,
+      "score2": 5
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 1",
+      "player1": "REDEMPTION",
+      "player2": "GRYMIR",
+      "winner": "GRYMIR",
+      "score1": 65,
+      "score2": 75
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 1",
+      "player1": "FROST",
+      "player2": "WULDEM",
+      "winner": "FROST",
+      "score1": 45,
+      "score2": 20
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 2",
+      "player1": "ODIUM",
+      "player2": "HONOR",
+      "winner": "ODIUM",
+      "score1": 25,
+      "score2": 10
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 2",
+      "player1": "FROST",
+      "player2": "GRYMIR",
+      "winner": "FROST",
+      "score1": 70,
+      "score2": 60
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 2",
+      "player1": "SHAKA",
+      "player2": "NÓCTARA",
+      "winner": "SHAKA",
+      "score1": 50,
+      "score2": 30
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 2",
+      "player1": "KANON",
+      "player2": "EL SOBRE",
+      "winner": "KANON",
+      "score1": 60,
+      "score2": 45
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 2",
+      "player1": "REDEMPTION",
+      "player2": "WULDEM",
+      "winner": "REDEMPTION",
+      "score1": 70,
+      "score2": 5
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 3",
+      "player1": "ODIUM",
+      "player2": "FROST",
+      "winner": null,
+      "score1": 130,
+      "score2": 140
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 3",
+      "player1": "KANON",
+      "player2": "WULDEM",
+      "winner": "KANON",
+      "score1": 25,
+      "score2": 0
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 3",
+      "player1": "SHAKA",
+      "player2": "GRYMIR",
+      "winner": null,
+      "score1": 110,
+      "score2": 100
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 3",
+      "player1": "REDEMPTION",
+      "player2": "HONOR",
+      "winner": "HONOR",
+      "score1": 0,
+      "score2": 10
+    },
+    {
+      "fecha": "Fecha 2 · Ronda 3",
+      "player1": "EL SOBRE",
+      "player2": "NÓCTARA",
+      "winner": "EL SOBRE",
+      "score1": 40,
+      "score2": 35
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 1",
+      "player1": "ODIUM",
+      "player2": "EL SOBRE",
+      "winner": "ODIUM",
+      "score1": 30,
+      "score2": 10
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 1",
+      "player1": "FROST",
+      "player2": "NÓCTARA",
+      "winner": "FROST",
+      "score1": 85,
+      "score2": 50
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 1",
+      "player1": "KANON",
+      "player2": "REDEMPTION",
+      "winner": "KANON",
+      "score1": 50,
+      "score2": 20
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 1",
+      "player1": "HONOR",
+      "player2": "ZPAINT",
+      "winner": "HONOR",
+      "score1": 25,
+      "score2": 0
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 1",
+      "player1": "SHAKA",
+      "player2": "WULDEM",
+      "winner": "SHAKA",
+      "score1": 20,
+      "score2": 0
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 2",
+      "player1": "ODIUM",
+      "player2": "KANON",
+      "winner": "ODIUM",
+      "score1": 5,
+      "score2": 5
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 2",
+      "player1": "FROST",
+      "player2": "HONOR",
+      "winner": null,
+      "score1": 75,
+      "score2": 125
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 2",
+      "player1": "SHAKA",
+      "player2": "EL SOBRE",
+      "winner": "SHAKA",
+      "score1": 20,
+      "score2": 35
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 2",
+      "player1": "NÓCTARA",
+      "player2": "ZPAINT",
+      "winner": "NÓCTARA",
+      "score1": 90,
+      "score2": 60
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 2",
+      "player1": "REDEMPTION",
+      "player2": "WULDEM",
+      "winner": "REDEMPTION",
+      "score1": 0,
+      "score2": 30
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 3",
+      "player1": "ODIUM",
+      "player2": "SHAKA",
+      "winner": null,
+      "score1": 135,
+      "score2": 165
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 3",
+      "player1": "HONOR",
+      "player2": "KANON",
+      "winner": "HONOR",
+      "score1": 95,
+      "score2": 55
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 3",
+      "player1": "FROST",
+      "player2": "EL SOBRE",
+      "winner": "FROST",
+      "score1": 55,
+      "score2": 45
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 3",
+      "player1": "NÓCTARA",
+      "player2": "REDEMPTION",
+      "winner": "NÓCTARA",
+      "score1": 80,
+      "score2": 40
+    },
+    {
+      "fecha": "Fecha 3 · Ronda 3",
+      "player1": "WULDEM",
+      "player2": "ZPAINT",
+      "winner": "ZPAINT",
+      "score1": 15,
+      "score2": 40
+    }
   ]
 }
