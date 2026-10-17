@@ -1,46 +1,50 @@
 {
   "title": "Liga 4 2026 | Lair",
-  "date": "09/10/2026",
+  "date": "16/10/2026",
   "standings": [
     {
-      "name": "ODIUM",
-      "points": 31
-    },
-    {
-      "name": "FROST",
-      "points": 27
+      "name": "SHAKA",
+      "points": 44
     },
     {
       "name": "HONOR",
-      "points": 26
+      "points": 44
     },
     {
-      "name": "SHAKA",
-      "points": 23
+      "name": "ODIUM",
+      "points": 42
+    },
+    {
+      "name": "FROST",
+      "points": 40
     },
     {
       "name": "KANON",
-      "points": 21
+      "points": 34
     },
     {
       "name": "REDEMPTION",
-      "points": 18
+      "points": 29
     },
     {
       "name": "EL SOBRE",
-      "points": 16
+      "points": 27
     },
     {
       "name": "NÓCTARA",
-      "points": 16
+      "points": 24
     },
     {
       "name": "GRYMIR",
-      "points": 9
+      "points": 22
     },
     {
       "name": "WULDEM",
-      "points": 7
+      "points": 17
+    },
+    {
+      "name": "ZPAINT",
+      "points": 10
     },
     {
       "name": "CALA",
@@ -52,10 +56,6 @@
     },
     {
       "name": "NACHO",
-      "points": 5
-    },
-    {
-      "name": "ZPAINT",
       "points": 5
     }
   ],
@@ -443,6 +443,206 @@
       "winner": "ZPAINT",
       "score1": 15,
       "score2": 40
+    },
+    {
+      "player2": "REDEMPTION",
+      "fecha": "Fecha 4 · Ronda 1",
+      "player1": "ODIUM",
+      "score1": 165,
+      "score2": 155,
+      "winner": null
+    },
+    {
+      "player2": "KANON",
+      "fecha": "Fecha 4 · Ronda 1",
+      "player1": "FROST",
+      "score1": 80,
+      "score2": 105,
+      "winner": "FROST"
+    },
+    {
+      "player2": "SHAKA",
+      "fecha": "Fecha 4 · Ronda 1",
+      "player1": "HONOR",
+      "score1": 40,
+      "score2": 100,
+      "winner": "HONOR"
+    },
+    {
+      "player2": "WULDEM",
+      "fecha": "Fecha 4 · Ronda 1",
+      "player1": "NÓCTARA",
+      "score1": 35,
+      "score2": 0,
+      "winner": "NÓCTARA"
+    },
+    {
+      "player2": "ZPAINT",
+      "fecha": "Fecha 4 · Ronda 1",
+      "player1": "EL SOBRE",
+      "score1": 15,
+      "score2": 0,
+      "winner": "EL SOBRE"
+    },
+    {
+      "player2": "EL SOBRE",
+      "fecha": "Fecha 4 · Ronda 2",
+      "player1": "NÓCTARA",
+      "score1": 40,
+      "score2": 85,
+      "winner": null
+    },
+    {
+      "player2": "HONOR",
+      "fecha": "Fecha 4 · Ronda 2",
+      "player1": "FROST",
+      "score1": 130,
+      "score2": 120,
+      "winner": null
+    },
+    {
+      "player2": "SHAKA",
+      "fecha": "Fecha 4 · Ronda 2",
+      "player1": "GRYMIR",
+      "score1": 50,
+      "score2": 70,
+      "winner": "SHAKA"
+    },
+    {
+      "player2": "KANON",
+      "fecha": "Fecha 4 · Ronda 2",
+      "player1": "ODIUM",
+      "score1": 35,
+      "score2": 5,
+      "winner": "ODIUM"
+    },
+    {
+      "player2": "WULDEM",
+      "fecha": "Fecha 4 · Ronda 2",
+      "player1": "REDEMPTION",
+      "score1": 45,
+      "score2": 5,
+      "winner": "REDEMPTION"
+    },
+    {
+      "player2": "EL SOBRE",
+      "fecha": "Fecha 4 · Ronda 3",
+      "player1": "ODIUM",
+      "score1": 40,
+      "score2": 40,
+      "winner": "ODIUM"
+    },
+    {
+      "player2": "REDEMPTION",
+      "fecha": "Fecha 4 · Ronda 3",
+      "player1": "FROST",
+      "score1": 50,
+      "score2": 75,
+      "winner": "FROST"
+    },
+    {
+      "player2": "NÓCTARA",
+      "fecha": "Fecha 4 · Ronda 3",
+      "player1": "SHAKA",
+      "score1": 100,
+      "score2": 50,
+      "winner": "SHAKA"
+    },
+    {
+      "player2": "ZPAINT",
+      "fecha": "Fecha 4 · Ronda 3",
+      "player1": "HONOR",
+      "score1": 85,
+      "score2": 25,
+      "winner": "HONOR"
+    },
+    {
+      "player2": "KANON",
+      "fecha": "Fecha 4 · Ronda 3",
+      "player1": "GRYMIR",
+      "score1": 15,
+      "score2": 80,
+      "winner": "KANON"
+    },
+    {
+      "player2": "ODIUM",
+      "fecha": "Fecha 4 · Ronda 4",
+      "player1": "SHAKA",
+      "score1": 55,
+      "score2": 20,
+      "winner": "SHAKA"
+    },
+    {
+      "player2": "EL SOBRE",
+      "fecha": "Fecha 4 · Ronda 4",
+      "player1": "HONOR",
+      "score1": 95,
+      "score2": 20,
+      "winner": "HONOR"
+    },
+    {
+      "player2": "WULDEM",
+      "fecha": "Fecha 4 · Ronda 4",
+      "player1": "FROST",
+      "score1": 0,
+      "score2": 5,
+      "winner": "FROST"
+    },
+    {
+      "player2": "NÓCTARA",
+      "fecha": "Fecha 4 · Ronda 4",
+      "player1": "REDEMPTION",
+      "score1": 110,
+      "score2": 85,
+      "winner": null
+    },
+    {
+      "player2": "GRYMIR",
+      "fecha": "Fecha 4 · Ronda 4",
+      "player1": "ZPAINT",
+      "score1": 5,
+      "score2": 15,
+      "winner": "GRYMIR"
+    },
+    {
+      "player2": "FROST",
+      "fecha": "Fecha 4 · Ronda 5",
+      "player1": "SHAKA",
+      "score1": 35,
+      "score2": 30,
+      "winner": "SHAKA"
+    },
+    {
+      "player2": "ODIUM",
+      "fecha": "Fecha 4 · Ronda 5",
+      "player1": "HONOR",
+      "score1": 65,
+      "score2": 50,
+      "winner": "HONOR"
+    },
+    {
+      "player2": "KANON",
+      "fecha": "Fecha 4 · Ronda 5",
+      "player1": "REDEMPTION",
+      "score1": 75,
+      "score2": 55,
+      "winner": "KANON"
+    },
+    {
+      "player2": "NÓCTARA",
+      "fecha": "Fecha 4 · Ronda 5",
+      "player1": "GRYMIR",
+      "score1": 85,
+      "score2": 45,
+      "winner": "GRYMIR"
+    },
+    {
+      "player2": "WULDEM",
+      "fecha": "Fecha 4 · Ronda 5",
+      "player1": "ZPAINT",
+      "score1": 5,
+      "score2": 15,
+      "winner": "WULDEM"
     }
   ]
 }
